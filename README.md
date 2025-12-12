@@ -3,7 +3,6 @@ This script is designed to collect Discord tokens and user information by scanni
 
 Disclaimer
 This script is potentially malicious and unethical. It can be used for malicious purposes, such as stealing user tokens, personal information, and other sensitive data. Using this script for malicious purposes without the user's consent is illegal and violates ethical guidelines. Do not use this script without proper authorization.
-<img width="645" height="411" alt="image" src="https://github.com/user-attachments/assets/9519d351-3b71-4d29-9c51-b3e0ed456347" />
 
 
 Features
